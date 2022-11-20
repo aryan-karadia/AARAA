@@ -1,29 +1,16 @@
+AARAA, A Machine Learning Model for Tomorrow
 
-#h1 AARAA, A Machine Learning Model for Tomorrow
+Note: If you want to use the regression model yourself:
 
-Note: In order for the linear regression model Jupyter Notebook file to work properly, both paths need to be indicated properly.
+both paths need to be indicated properly.
 
-Make sure the path corresponding to your machine is written properly here:
-image.png
+Make sure the path corresponding to your machine is written properly in code block #2 "data= pd.read.excel(r"....."). This should open the excel file with the data you are inputting.
 
-and here:
-image.png
+Make sure the path corresponding to your machine is written properly in code block #12 "sys.path.insert(0, r"....."). This should lead to the folder in which the NGOS.py file is in.
 
+Website Credits: 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- Website Credits: TemplateHyperspace by HTML5 UP
+TemplateHyperspace by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
