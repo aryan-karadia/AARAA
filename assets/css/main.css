@@ -218,6 +218,72 @@ input, select, textarea {
 		font-size: 1.75em;
 	}
 
+	.tooltip {
+    display:inline-block;
+    position:relative;
+    border-bottom:1px dotted #666;
+    text-align:left;
+}
+
+.tooltip .right {
+    min-width:150px; 
+    top:50%;
+    left:80%;
+    margin-left:20px;
+    transform:translate(0, -90%);
+    padding:10px 20px;
+    color:#EEEEEE;
+    background-color:#444444;
+    font-weight:normal;
+    font-size:13px;
+    border-radius:8px;
+    position:absolute;
+    z-index:99999999;
+    box-sizing:border-box;
+    box-shadow:0 1px 8px rgba(0,0,0,0.5);
+    visibility:hidden; opacity:0; transition:opacity 0.7s;
+}
+
+.tooltip:hover .right {
+    visibility:visible; opacity:1;
+}
+
+.tooltip .right i {
+    position:absolute;
+    top:90%;
+    right:100%;
+    margin-top:-10px;
+    width:10px;
+    height:20px;
+    overflow:hidden;
+}
+
+.tooltip .right i::after {
+    content:'';
+    position:absolute;
+    width:10px;
+    height:10px;
+    left:0;
+    top:50%;
+    transform:translate(50%,-50%) rotate(-45deg);
+    background-color:#444444;
+    box-shadow:0 1px 8px rgba(0,0,0,0.5);
+}
+
+.partner-logo {
+	border-radius: 50%;
+	height: 96px;
+	width: 96px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.partner-logo img {
+	border-radius: 50%;
+	object-fit: cover;
+}
+
 	h3 {
 		font-size: 1.1em;
 	}
