@@ -296,6 +296,7 @@ input, select, textarea {
 	display: flex;
 	gap: 1px;
 	align-items: center;
+	justify-content: center;
 }
 
 .details-header img {
