@@ -52,57 +52,57 @@ CAR_NGO = {
 }
 
 for k in CAR_NGO.keys():
-  print(f"<li>{k.capitalize()}</li>")
+  print(f"<li>{k.title()}</li>")
 
 '''
-<li>Islamic relief worldwide</li>
-<li>International rescue committee, u.k</li>
-<li>International medical corps (uk)</li>
-<li>Education development trust</li>
-<li>World vision uk</li>
-<li>Catholic agency for overseas development</li>
-<li>Concern worldwide (uk)</li>
-<li>Penny appeal</li>
-<li>Sisters of charity of st jeanne antide cio</li>
-<li>War child</li>
-<li>One nation</li>
-<li>Conciliation resources</li>
-<li>A c o r d</li>
-<li>The born free foundation</li>
-<li>Inspiration incubator</li>
-<li>Everlasting foundation</li>
-<li>Conserve global</li>
-<li>Center fior civilians in conflict(uk)</li>
-<li>Muslim futures</li>
-<li>Uptime catalyst facility</li>
-<li>International tanaba(itanaba)</li>
-<li>The arcanum foundation</li>
-<li>Kariba health organizatiion</li>
-<li>African rights action</li>
-<li>International welfare allience(iwarelief)</li>
-<li>Kd foundation</li>
+<li>Islamic Relief Worldwide</li>
+<li>International Rescue Committee, U.K</li>
+<li>International Medical Corps (Uk)</li>
+<li>Education Development Trust</li>
+<li>World Vision Uk</li>
+<li>Catholic Agency For Overseas Development</li>
+<li>Concern Worldwide (Uk)</li>
+<li>Penny Appeal</li>
+<li>Sisters Of Charity Of St Jeanne Antide Cio</li>
+<li>War Child</li>
+<li>One Nation</li>
+<li>Conciliation Resources</li>
+<li>A C O R D</li>
+<li>The Born Free Foundation</li>
+<li>Inspiration Incubator</li>
+<li>Everlasting Foundation</li>
+<li>Conserve Global</li>
+<li>Center Fior Civilians In Conflict(Uk)</li>
+<li>Muslim Futures</li>
+<li>Uptime Catalyst Facility</li>
+<li>International Tanaba(Itanaba)</li>
+<li>The Arcanum Foundation</li>
+<li>Kariba Health Organizatiion</li>
+<li>African Rights Action</li>
+<li>International Welfare Allience(Iwarelief)</li>
+<li>Kd Foundation</li>
 <li>Smart</li>
-<li>Thirdway trust</li>
-<li>Afdp globsl foundation</li>
-<li>International shadow piece force</li>
-<li>International wildlife bond</li>
-<li>Central african organization</li>
-<li>WWF</li>
-<li>Sisters of charity of st jeanne antide cio</li>
-<li>Church mission society</li>
-<li>World land trust</li>
-<li>Youth business international</li>
-<li>Operational smile united kingdom</li>
-<li>Family for every child</li>
-<li>Global canopy</li>
-<li>Teach a man to fish</li>
-<li>The global warming policy foundation</li>
-<li>The sloth conservation foundation</li>
-<li>Good neighbours uk</li>
-<li>The international cml foundation</li>
-<li>Water survival box ltd</li>
-<li>Missionary sisters of the sacred heart</li>
-<li>Santa maria education fund</li>
-<li>Neotopical bird club</li>
+<li>Thirdway Trust</li>
+<li>Afdp Globsl Foundation</li>
+<li>International Shadow Piece Force</li>
+<li>International Wildlife Bond</li>
+<li>Central African Organization</li>
+<li>Wwf</li>
+<li>Sisters Of Charity Of St Jeanne Antide Cio</li>
+<li>Church Mission Society</li>
+<li>World Land Trust</li>
+<li>Youth Business International</li>
+<li>Operational Smile United Kingdom</li>
+<li>Family For Every Child</li>
+<li>Global Canopy</li>
+<li>Teach A Man To Fish</li>
+<li>The Global Warming Policy Foundation</li>
+<li>The Sloth Conservation Foundation</li>
+<li>Good Neighbours Uk</li>
+<li>The International Cml Foundation</li>
+<li>Water Survival Box Ltd</li>
+<li>Missionary Sisters Of The Sacred Heart</li>
+<li>Santa Maria Education Fund</li>
+<li>Neotopical Bird Club</li>
 <li>Arcaid</li>
 '''
