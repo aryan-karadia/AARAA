@@ -1,4 +1,23 @@
-Hyperspace by HTML5 UP
+
+#AARAA, A Machine Learning Model for Tomorrow
+
+Note: In order for the linear regression model Jupyter Notebook file to work properly, both paths to the data in the top code block, and the bottom code block must be properly indicated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Website Credits: TemplateHyperspace by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
