@@ -1,38 +1,3 @@
-CAR_NGO = {
-"ISLAMIC RELIEF WORLDWIDE": ['education', 'healthcare', 'water'],
-"INTERNATIONAL RESCUE COMMITTEE, U.K": ['homelessness', 'electricity', 'water'],
-"INTERNATIONAL MEDICAL CORPS (UK)": ['healthcare'],
-"EDUCATION DEVELOPMENT TRUST": ['education', 'literacy'],
-"WORLD VISION UK": ['homelessness', 'electricity', 'water'],
-"CATHOLIC AGENCY FOR OVERSEAS DEVELOPMENT": ['poverty'],
-"CONCERN WORLDWIDE (UK)": ['hunger', 'water'],
-"PENNY APPEAL": ['water', 'hunger', 'healthcare'],
-"SISTERS OF CHARITY OF ST JEANNE ANTIDE CIO": ['homeless', 'education', 'literacy', 'water'],
-"WAR CHILD": ['orphans'],
-"ONE NATION": ['orphans'],
-"CONCILIATION RESOURCES": ['hunger'],
-"A C O R D": ['electricity', 'homelessness', 'water', 'hunger'],
-"THE BORN FREE FOUNDATION": ['poaching', 'wildlife'],
-"Inspiration Incubator": ['community ', 'society'],
-"Everlasting Foundation": ['hunger', 'clothes', 'education'],
-"Conserve Global": ['animal'],
-"Center fior civilians in conflict(UK)": ['education'],
-"Muslim futures": ['education', 'literacy', 'minority'],
-"Uptime Catalyst facility": ['water'],
-"International Tanaba(ITANABA)": ['poverty', 'animal'],
-"The Arcanum foundation": ['youth clubs', 'animal', 'veterans'],
-"Kariba Health Organizatiion": ['healthcare'],
-"African Rights Action": ['inclusion', 'refugees'],
-"International Welfare Allience(IWARELIEF)": ['healthcare', 'hunger', 'clothing', 'homelessness', 'electricity'],
-"KD Foundation": ['climate',  'hunger' , 'clothing', 'education', 'healthcare'],
-"Smart": ['hunger'],
-"Thirdway Trust": ['education', 'literacy'],
-"AFDP Globsl Foundation": ['sports'],
-"International Shadow Piece Force": ['war', 'refugees'],
-"International Wildlife Bond": ['animal'],
-"Central African Organization": ['homelessness', 'electricity']
-}
-
 global_NGO = {
 "INTERNATIONAL RESCUE COMMITTEE, U.K": ['homelessness', 'electricity', 'water'],
 "INTERNATIONAL MEDICAL CORPS (UK)": ['healthcare', 'obesity', 'mortality'],
@@ -59,5 +24,8 @@ global_NGO = {
 'OXFAM': ['famine'], 
 'CONCERN WORLDWIDE': ['healthcare', 'education', 'literacy', 'climate'],
 'WORLD RELIEF': ['poverty', 'natural disasters,'],
-'CARE INTERNATIONAL': ['poverty', 'healthcare', 'water']
+'CARE INTERNATIONAL': ['poverty', 'healthcare', 'water'],
+'DOCTORS WITHOUT BORDERS': ['healthcare', 'obesity', 'mortality'],
+'PROJECT HOPE': ['diseases', 'healthcare', 'natural disasters', 'obesity', 'mortality'],
+"GREEN PEACE": ['pollution']
 }
