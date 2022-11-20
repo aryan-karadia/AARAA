@@ -1,7 +1,13 @@
 
-#AARAA, A Machine Learning Model for Tomorrow
+#h1 AARAA, A Machine Learning Model for Tomorrow
 
-Note: In order for the linear regression model Jupyter Notebook file to work properly, both paths to the data in the top code block, and the bottom code block must be properly indicated.
+Note: In order for the linear regression model Jupyter Notebook file to work properly, both paths need to be indicated properly.
+
+Make sure the path corresponding to your machine is written properly here:
+image.png
+
+and here:
+image.png
 
 
 
